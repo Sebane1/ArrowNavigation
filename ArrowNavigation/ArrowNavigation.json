@@ -1,0 +1,10 @@
+{
+    "Author": "Sebastina",
+    "Name": "Arrow Navigation",
+    "Punchline": "Map too cumbersome to navigate? Mini map hard to use? Use a floating arrow that points where to go!",
+    "Description": "Map too cumbersome to navigate? Mini map hard to use? Use a floating arrow that points where to go!",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "navigation"
+    ]
+}
